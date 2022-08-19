@@ -5,8 +5,8 @@
 }
 
 :root{
-    --primary-color:#24dfdc;
-    --secondary-color: #167583;
+    --primary-color: grey;
+    --secondary-color: grey;
 }
 
 body{
@@ -26,6 +26,7 @@ header{
 .search{
     background-color: transparent;
     border: 2px solid var(--primary-color);
+    border-color: white;
     padding:0.5rem 1rem;
     border-radius: 50px;
     font-size: 1rem;
